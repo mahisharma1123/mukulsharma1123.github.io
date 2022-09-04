@@ -158,6 +158,8 @@ please don't hesitate to reach out -- I will always happily accept constructive 
 
 
 ## To deploy
+* Run development server
+npm start
 * Save codebase
 git add .
 git commit -m "Commit msg"
