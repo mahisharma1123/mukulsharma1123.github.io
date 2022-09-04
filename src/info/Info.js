@@ -90,21 +90,24 @@ export const info = {
         {
             title: "Eurasia Supermarket",
             live: "https://www.instagram.com/eurasiasupermarket/?igshid=YmMyMTA2M2Y%3D", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://www.facebook.com/eurasia.supermarkets",
             image: mock1
         },
         {
             title: "Sheela Palace",
             live: "https://www.instagram.com/sheelapalacerestaurant/?igshid=YmMyMTA2M2Y%3D",
+            source: "https://www.facebook.com/SheelaPalaceRestaurant",
             image: mock2
         },
         {
             title: "Locus Occupational Therapy app",
-            live: "https://www.instagram.com/locus_fct/",
+            source: "https://www.facebook.com/occupationaltherapy.22/",
             image: mock3
         },
         {
             title: "Spice Seeker",
             live: "https://www.instagram.com/spiceseekerhere/?igshid=YmMyMTA2M2Y%3D",
+            source: "https://www.facebook.com/SpiceSeekerhere",
             image: mock4
         },
     ]

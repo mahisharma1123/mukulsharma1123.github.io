@@ -35,7 +35,7 @@ export default function About() {
 
     function miscText() {
         return <>
-            <p><span style={{color: info.baseColor}}>hobbies/interests </span></p>
+            <p><span style={{color: info.baseColor}}>Hobbies/Interests </span></p>
             <ul>
                 {info.hobbies.map((hobby, index) => (
                     <li key={index}><Box component={'span'} mr={'1rem'}>{hobby.emoji}</Box>{hobby.label}</li>
