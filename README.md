@@ -155,3 +155,14 @@ please don't hesitate to reach out -- I will always happily accept constructive 
 [6](https://www.keyrxng.xyz/)
 
 [7](https://ellerman4.github.io/ellerman4_portfolio/)
+
+
+## To deploy
+* Save codebase
+git add .
+git commit -m "Commit msg"
+git push 
+* deploy
+npm run deploy -- -m "Deploy React app to GitHub Pages"
+
+
